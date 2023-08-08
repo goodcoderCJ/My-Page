@@ -1,0 +1,15 @@
+{
+  "name": "MyPage",
+  "version": "1.0.0",
+  "description": "This a single page website detailing my skill and who I am ",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo\\\"Error: no test specified\\\"&& exit 1\""
+  },
+  "keywords": [
+    "web",
+    "development"
+  ],
+  "author": "Etumnu Chinenye Juliet",
+  "license": "ISC"
+}
